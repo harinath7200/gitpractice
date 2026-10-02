@@ -1,4 +1,4 @@
-This is my first Git practice
+hello from master
 Git is the version control system
 I am learning Git
 Now I am using GitHub
