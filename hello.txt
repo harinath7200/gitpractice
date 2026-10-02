@@ -2,3 +2,4 @@ Hello from the merged project
 Git is the version control system
 I am learning Git
 Now I am using GitHub
+This feature was developed in a separate branch
